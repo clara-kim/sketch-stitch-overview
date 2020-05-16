@@ -1,0 +1,7 @@
+<map id="include/TriangleBrush.hpp" name="include/TriangleBrush.hpp">
+<area shape="rect" id="node1" title="TriangleBrush actions interface." alt="" coords="93,5,268,31"/>
+<area shape="rect" id="node2" href="$_client_8hpp.html" title="Represents a Client end in a TcpNetwork." alt="" coords="15,79,143,104"/>
+<area shape="rect" id="node4" href="$main_8cpp.html" title="Entry point into the program." alt="" coords="132,152,229,177"/>
+<area shape="rect" id="node5" href="$_triangle_brush_8cpp.html" title="TriangleBrush implementation, all drawing actions are commands." alt="" coords="217,79,368,104"/>
+<area shape="rect" id="node3" href="$_client_8cpp.html" title="Implementation of Client.hpp." alt="" coords="5,152,107,177"/>
+</map>

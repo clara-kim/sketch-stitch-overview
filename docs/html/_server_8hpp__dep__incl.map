@@ -1,0 +1,5 @@
+<map id="include/Server.hpp" name="include/Server.hpp">
+<area shape="rect" id="node1" title="Represents a Server end in a TcpNetwork." alt="" coords="51,5,182,31"/>
+<area shape="rect" id="node2" href="$main_8cpp.html" title="Entry point into the program." alt="" coords="5,79,102,104"/>
+<area shape="rect" id="node3" href="$_server_8cpp.html" title="Implementation of Server.hpp." alt="" coords="126,79,232,104"/>
+</map>

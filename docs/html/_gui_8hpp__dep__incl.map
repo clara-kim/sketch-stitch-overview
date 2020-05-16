@@ -1,0 +1,5 @@
+<map id="include/Gui.hpp" name="include/Gui.hpp">
+<area shape="rect" id="node1" title="Represents an end (client or server) in a TcpNetwork." alt="" coords="51,5,165,31"/>
+<area shape="rect" id="node2" href="$_gui_8cpp.html" title="Gui implementation." alt="" coords="5,79,94,104"/>
+<area shape="rect" id="node3" href="$main_8cpp.html" title="Entry point into the program." alt="" coords="119,79,216,104"/>
+</map>

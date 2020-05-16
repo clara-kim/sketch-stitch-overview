@@ -1,0 +1,9 @@
+<map id="include/TcpNetwork.hpp" name="include/TcpNetwork.hpp">
+<area shape="rect" id="node1" title="Represents an end (client or server) in a TcpNetwork." alt="" coords="150,5,312,31"/>
+<area shape="rect" id="node2" href="$_client_8hpp.html" title="Represents a Client end in a TcpNetwork." alt="" coords="15,79,143,104"/>
+<area shape="rect" id="node4" href="$main_8cpp.html" title="Entry point into the program." alt="" coords="132,152,229,177"/>
+<area shape="rect" id="node5" href="$_server_8hpp.html" title="Represents a Server end in a TcpNetwork." alt="" coords="217,79,349,104"/>
+<area shape="rect" id="node7" href="$_tcp_network_8cpp.html" title="Implementation of TcpNetwork.hpp." alt="" coords="373,79,511,104"/>
+<area shape="rect" id="node3" href="$_client_8cpp.html" title="Implementation of Client.hpp." alt="" coords="5,152,107,177"/>
+<area shape="rect" id="node6" href="$_server_8cpp.html" title="Implementation of Server.hpp." alt="" coords="252,152,359,177"/>
+</map>

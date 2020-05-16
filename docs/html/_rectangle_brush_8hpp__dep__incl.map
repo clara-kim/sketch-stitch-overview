@@ -1,0 +1,7 @@
+<map id="include/RectangleBrush.hpp" name="include/RectangleBrush.hpp">
+<area shape="rect" id="node1" title="RectangleBrush actions interface." alt="" coords="86,5,274,31"/>
+<area shape="rect" id="node2" href="$_client_8hpp.html" title="Represents a Client end in a TcpNetwork." alt="" coords="15,79,143,104"/>
+<area shape="rect" id="node4" href="$main_8cpp.html" title="Entry point into the program." alt="" coords="132,152,229,177"/>
+<area shape="rect" id="node5" href="$_rectangle_brush_8cpp.html" title="RectangleBrush implementation, all drawing actions are commands." alt="" coords="218,79,380,104"/>
+<area shape="rect" id="node3" href="$_client_8cpp.html" title="Implementation of Client.hpp." alt="" coords="5,152,107,177"/>
+</map>

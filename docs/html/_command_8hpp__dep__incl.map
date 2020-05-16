@@ -1,0 +1,27 @@
+<map id="include/Command.hpp" name="include/Command.hpp">
+<area shape="rect" id="node1" title="Represents an actionable command by the user." alt="" coords="1564,5,1719,31"/>
+<area shape="rect" id="node2" href="$_app_8hpp.html" title="App class interface." alt="" coords="1100,79,1217,104"/>
+<area shape="rect" id="node4" href="$_draw_8hpp.html" title="Drawing actions interface." alt="" coords="657,152,780,177"/>
+<area shape="rect" id="node7" href="$main_8cpp.html" title="Entry point into the program." alt="" coords="1128,445,1224,471"/>
+<area shape="rect" id="node25" href="$_command_8cpp.html" title="Implementation of Command.hpp." alt="" coords="2214,79,2343,104"/>
+<area shape="rect" id="node3" href="$_app_8cpp.html" title="Implementation of App object." alt="" coords="1758,152,1850,177"/>
+<area shape="rect" id="node8" href="$_large_brush_8hpp.html" title="LargeBrush actions interface." alt="" coords="1471,225,1633,251"/>
+<area shape="rect" id="node9" href="$_large_brush_8cpp.html" title="LargeBrush implementation, all drawing actions are commands." alt="" coords="1952,299,2088,324"/>
+<area shape="rect" id="node10" href="$_rectangle_brush_8hpp.html" title="RectangleBrush actions interface." alt="" coords="153,225,341,251"/>
+<area shape="rect" id="node11" href="$_rectangle_brush_8cpp.html" title="RectangleBrush implementation, all drawing actions are commands." alt="" coords="29,299,192,324"/>
+<area shape="rect" id="node12" href="$_triangle_brush_8hpp.html" title="TriangleBrush actions interface." alt="" coords="467,225,643,251"/>
+<area shape="rect" id="node13" href="$_triangle_brush_8cpp.html" title="TriangleBrush implementation, all drawing actions are commands." alt="" coords="317,299,467,324"/>
+<area shape="rect" id="node14" href="$_star_brush_8hpp.html" title="StarBrush actions interface." alt="" coords="830,225,983,251"/>
+<area shape="rect" id="node15" href="$_star_brush_8cpp.html" title="StarBrush implementation, all drawing actions are commands." alt="" coords="643,299,770,324"/>
+<area shape="rect" id="node16" href="$_erase_8hpp.html" title="Erase actions interface." alt="" coords="1095,225,1223,251"/>
+<area shape="rect" id="node23" href="$_erase_8cpp.html" title="Erase implementation, all drawing actions are commands." alt="" coords="1774,299,1877,324"/>
+<area shape="rect" id="node24" href="$_draw_8cpp.html" title="Draw implementation, all drawing actions are commands." alt="" coords="1297,225,1396,251"/>
+<area shape="rect" id="node5" href="$_client_8hpp.html" title="Represents a Client end in a TcpNetwork." alt="" coords="860,372,988,397"/>
+<area shape="rect" id="node6" href="$_client_8cpp.html" title="Implementation of Client.hpp." alt="" coords="873,445,975,471"/>
+<area shape="rect" id="node17" href="$_small_erase_8hpp.html" title="SmallErase actions interface." alt="" coords="1537,299,1698,324"/>
+<area shape="rect" id="node18" href="$_small_erase_8cpp.html" title="SmallErase implementation." alt="" coords="1645,372,1781,397"/>
+<area shape="rect" id="node19" href="$_medium_erase_8hpp.html" title="MediumErase actions interface." alt="" coords="998,299,1173,324"/>
+<area shape="rect" id="node20" href="$_medium_erase_8cpp.html" title="MediumErase implementation." alt="" coords="1101,372,1251,397"/>
+<area shape="rect" id="node21" href="$_large_erase_8hpp.html" title="LargeErase actions interface." alt="" coords="1248,299,1410,324"/>
+<area shape="rect" id="node22" href="$_large_erase_8cpp.html" title="LargeErase implementation." alt="" coords="1325,372,1462,397"/>
+</map>

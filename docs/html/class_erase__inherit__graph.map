@@ -1,0 +1,8 @@
+<map id="Erase" name="Erase">
+<area shape="rect" id="node1" title=" " alt="" coords="144,152,200,177"/>
+<area shape="rect" id="node4" href="$class_large_erase.html" title=" " alt="" coords="5,225,96,251"/>
+<area shape="rect" id="node5" href="$class_medium_erase.html" title=" " alt="" coords="120,225,224,251"/>
+<area shape="rect" id="node6" href="$class_small_erase.html" title=" " alt="" coords="247,225,337,251"/>
+<area shape="rect" id="node2" href="$class_draw.html" title=" " alt="" coords="146,79,198,104"/>
+<area shape="rect" id="node3" href="$class_command.html" title=" " alt="" coords="130,5,213,31"/>
+</map>

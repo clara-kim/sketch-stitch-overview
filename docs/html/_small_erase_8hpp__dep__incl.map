@@ -1,0 +1,7 @@
+<map id="include/SmallErase.hpp" name="include/SmallErase.hpp">
+<area shape="rect" id="node1" title="SmallErase actions interface." alt="" coords="100,5,261,31"/>
+<area shape="rect" id="node2" href="$_client_8hpp.html" title="Represents a Client end in a TcpNetwork." alt="" coords="15,79,143,104"/>
+<area shape="rect" id="node4" href="$main_8cpp.html" title="Entry point into the program." alt="" coords="132,152,229,177"/>
+<area shape="rect" id="node5" href="$_small_erase_8cpp.html" title="SmallErase implementation." alt="" coords="218,79,354,104"/>
+<area shape="rect" id="node3" href="$_client_8cpp.html" title="Implementation of Client.hpp." alt="" coords="5,152,107,177"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="include/Erase.hpp" name="include/Erase.hpp">
+<area shape="rect" id="node1" title="Erase actions interface." alt="" coords="498,5,626,31"/>
+<area shape="rect" id="node2" href="$_small_erase_8hpp.html" title="SmallErase actions interface." alt="" coords="362,79,524,104"/>
+<area shape="rect" id="node3" href="$_client_8hpp.html" title="Represents a Client end in a TcpNetwork." alt="" coords="237,152,364,177"/>
+<area shape="rect" id="node5" href="$main_8cpp.html" title="Entry point into the program." alt="" coords="365,225,462,251"/>
+<area shape="rect" id="node6" href="$_small_erase_8cpp.html" title="SmallErase implementation." alt="" coords="439,152,575,177"/>
+<area shape="rect" id="node7" href="$_medium_erase_8hpp.html" title="MediumErase actions interface." alt="" coords="111,79,287,104"/>
+<area shape="rect" id="node8" href="$_medium_erase_8cpp.html" title="MediumErase implementation." alt="" coords="5,152,156,177"/>
+<area shape="rect" id="node9" href="$_large_erase_8hpp.html" title="LargeErase actions interface." alt="" coords="650,79,812,104"/>
+<area shape="rect" id="node10" href="$_large_erase_8cpp.html" title="LargeErase implementation." alt="" coords="757,152,894,177"/>
+<area shape="rect" id="node11" href="$_erase_8cpp.html" title="Erase implementation, all drawing actions are commands." alt="" coords="888,79,991,104"/>
+<area shape="rect" id="node4" href="$_client_8cpp.html" title="Implementation of Client.hpp." alt="" coords="239,225,341,251"/>
+</map>

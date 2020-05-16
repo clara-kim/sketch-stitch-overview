@@ -1,0 +1,12 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_command.html" title=" " alt="" coords="5,153,88,179"/>
+<area shape="rect" id="node2" href="$class_draw.html" title=" " alt="" coords="136,153,189,179"/>
+<area shape="rect" id="node3" href="$class_erase.html" title=" " alt="" coords="267,55,323,80"/>
+<area shape="rect" id="node7" href="$class_large_brush.html" title=" " alt="" coords="250,104,340,129"/>
+<area shape="rect" id="node8" href="$class_rectangle_brush.html" title=" " alt="" coords="237,153,353,179"/>
+<area shape="rect" id="node9" href="$class_star_brush.html" title=" " alt="" coords="254,203,335,228"/>
+<area shape="rect" id="node10" href="$class_triangle_brush.html" title=" " alt="" coords="243,252,347,277"/>
+<area shape="rect" id="node4" href="$class_large_erase.html" title=" " alt="" coords="407,5,498,31"/>
+<area shape="rect" id="node5" href="$class_medium_erase.html" title=" " alt="" coords="401,55,504,80"/>
+<area shape="rect" id="node6" href="$class_small_erase.html" title=" " alt="" coords="408,104,497,129"/>
+</map>
