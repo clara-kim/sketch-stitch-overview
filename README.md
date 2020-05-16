@@ -28,4 +28,8 @@ A 5-minute YouTube video listing features/technologies and demonstrating the app
 * Clara Kim
 * Fay Feghali
 
+### Class Hierarchy
+<img src="./images/class-diagram.PNG"/>
+For detailed documentation on all classes, please download the files in ./docs/html and then open index.html.
+
 *Due to the professor's request, I am unable to publically share the code for this project.*
