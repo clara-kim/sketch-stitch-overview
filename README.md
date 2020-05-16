@@ -1,5 +1,4 @@
 # Sketch Stitch: An Overview
-*Due to the professor's request, I am unable to publically share the code for this project.*
 
 **Sketch Stitch** is a collaborative painting application through which users can virtually paint on the same canvas over a network.
 
@@ -28,3 +27,5 @@ A 5-minute YouTube video listing features/technologies and demonstrating the app
 * Alexadriana Thammavongsa
 * Clara Kim
 * Fay Feghali
+
+*Due to the professor's request, I am unable to publically share the code for this project.*
